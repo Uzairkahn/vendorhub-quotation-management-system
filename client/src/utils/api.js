@@ -1,8 +1,13 @@
-import axios from 'axios';
+import axios from "axios";
 
 const api = axios.create({
-  baseURL: '/api',
-  headers: { 'Content-Type': 'application/json' },
+  baseURL:
+    process.env.NODE_ENV === "production"
+      ? process.env.REACT_APP_API_URL
+      : "/api",
+  headers: {
+    "Content-Type": "application/json",
+  },
 });
 
 export const vendorAPI = {

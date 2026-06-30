@@ -10,25 +10,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [API Documentation](#api-documentation)
-- [Environment Variables](#environment-variables)
-- [Usage Guide](#usage-guide)
-- [Screenshots](#screenshots)
-- [Deployment](#deployment)
-- [Challenges & Solutions](#challenges--solutions)
-- [Learning Outcomes](#learning-outcomes)
-- [Future Improvements](#future-improvements)
-- [Author](#author)
-- [License](#license)
-
 ---
 
 ## 🎯 Overview

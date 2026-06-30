@@ -35,6 +35,17 @@
 
 **VendorHub** is a full-stack web application designed to simplify vendor management and quotation comparison for procurement teams. Organizations can efficiently manage their vendor database, receive quotations, compare prices, and identify the best procurement options.
 
+## 🌐 Deployment
+
+### Frontend Deployment (Vercel)
+
+**Live URL:** https://vendorhub-quotation-management-syst.vercel.app
+
+### Backend Deployment (Render)
+
+**Live URL:** https://vendorhub-quotation-management-system.onrender.com
+
+
 ### Problem Solved
 - ❌ Manual vendor management is time-consuming
 - ❌ Comparing multiple quotations is error-prone
